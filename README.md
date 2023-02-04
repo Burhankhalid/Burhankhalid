@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Burhankhalid
 - 👀 I’m interested in Web and Software Development 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React and React Native
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me at khalidburhan67@gmail.com
 -        
