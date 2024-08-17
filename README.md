@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Burhankhalid
 - 👀 I’m interested in Software Development and Artificial Intelligence 
-- 🌱 I’m currently learning MERN Stack and TensorFlow
+- 🌱 I’m experienced in Java Spring Boot and related technologies
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me at khalidburhan6767@gmail.com
 -        
